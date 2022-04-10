@@ -1,1 +1,1 @@
-# Java_Calculator-
+# 자바 GUI 계산기
